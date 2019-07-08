@@ -10,6 +10,7 @@ m2:
 
 
 +:
+-cattegory ne se vo sredina na screen :D
 -ingrediants da se dodavaat
 -ddl create category
 -profile name size
