@@ -16,9 +16,8 @@ m2:
 -profile name size
 -welcome.blade ima head i body (ne treba zs e veke vo body)
 
-git: 
-git pull -u origin master
-
+git: (pred da push napraj go sve ova, za pull samo pull :D)
+git pull -u origin master   
 git add .
 git commit -m "poraka za sto si napravil"	
 git push -u origin master
